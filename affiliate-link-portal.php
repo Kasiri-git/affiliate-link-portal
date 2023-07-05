@@ -1,9 +1,10 @@
 <?php
 /*
-Plugin Name: Affiliate Link Portal
-Description: Manage and use affiliate links with shortcodes.
-Version: 1.0.0
-Author: Kasiri
+*Plugin Name: Affiliate Link Portal
+*Plugin URI: https://basekix.com
+*Description: Manage and use affiliate links with shortcodes.
+*Version: 1.0.0
+*Author: Kasiri
 */
 
 // 画像リンクのURLを取得
